@@ -1,0 +1,14 @@
+@charset "utf-8";
+.index-service .service-item .name {
+	color: #111111 !important;
+}
+.products-list .item .main .name a {
+	color: #111111 !important;
+}
+.index-about .main .brief {
+	color: #AAAAAA !important;
+}
+.index-about .main .more {
+	color: #AAAAAA !important;
+	border-color: #AAAAAA !important
+}
